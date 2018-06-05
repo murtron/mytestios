@@ -1,0 +1,16 @@
+PODS:
+  - Intercom (5.0.2)
+
+DEPENDENCIES:
+  - Intercom
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Intercom
+
+SPEC CHECKSUMS:
+  Intercom: 0fcb000a9eea9a8fe889ac1466972771ef8919f2
+
+PODFILE CHECKSUM: 37b9b41c43616149078db1fa6fa0ee92d20f028a
+
+COCOAPODS: 1.5.2
